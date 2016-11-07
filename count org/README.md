@@ -1,4 +1,3 @@
 # databasewithpython
 
-#This application will read the mailbox data (mbox.txt) count up the number email messages per organization 
-#(i.e. domain name of the email address) using a database with the following schema to maintain the counts.
+This application will read the mailbox data (mbox.txt) count up the number email messages per organization (i.e. domain name of the email address) using a database with the following schema to maintain the counts.
